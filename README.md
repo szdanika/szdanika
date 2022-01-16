@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @szdanika
-- 👀 I’m interested in making ai with python.
-- 🌱 I’m currently learning paython as a programing language.
-- 💞️ I’m looking to collaborate on making games with unity or to learn.
+- 👀 I’m interested in making games with unity.
+- 🌱 I’m currently learning unity.
+- 💞️ I’m looking to collaborate on making games with unity.
 - 📫 You can reach me at danikaszab@gmail.com.
 
 <!---
