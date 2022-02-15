@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @szdanika
 - 👀 I’m interested in making games with unity.
-- 🌱 I’m currently learning unity.
+- 🌱 I’m currently learning Engineering Information Technology.
 - 💞️ I’m looking to collaborate on making games with unity.
 - 📫 You can reach me at danikaszab@gmail.com.
 
